@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../hell/AI/project/js"
+		},
+		{
+			"path": "../../../../hell/AI/tik-tik-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
